@@ -41,3 +41,7 @@ Le minimum attendu est un programme fonctionnel qui puisse etre executé et test
 - Créer un nouveau repository public sur un espace à toi (et non un fork de ce repo sur l'espace gitlab Ekwateur)
 - Rendre le projet sur la branche master de ton repository
 - Enfin, nous communiquer par mail le lien de ton repository quand l'exercice est terminé
+
+  
+## Lancer l'application
+- Pour lancer l'application télécharger le repo sur votre espace de travail en faisant un git pull , veuillez ouvrir un ide et lancer la classe main.java
